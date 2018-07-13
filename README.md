@@ -11,6 +11,7 @@ Simplest api ever created with CRUD and token authentication
 [SimpleApi](#simpleapi)
   * [Documention](#documention)
   * [Getting Started](#getting-started)
+  * [Features](#features)
     + [Prerequisites](#prerequisites)
     + [Installing](#installing)
   * [Running the tests](#running-the-tests)
@@ -31,6 +32,11 @@ Simplest api ever created with CRUD and token authentication
 
 SimpelApi is Flask application developed for fast development of simpel APIs,this package uses SQLite3 as default database and SQLAlchemy to comunitcate with database.
 
+## Features
+
+CRUD operations
+User authantication 
+Limitation for api requests [default:300 per minutes]
 
 
 ### Prerequisites
@@ -193,9 +199,9 @@ Info: Same process can be applied for managing with posts!
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Flask](http://flask.pocoo.org/) - The micro-framework used
+* [SQLAlchemy](http://docs.sqlalchemy.org/en/latest/) - Database communicator
+* [Redis](https://redis.io//) - Used to set limitations on requests
 
 ## Contributing
 
