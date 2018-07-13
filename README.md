@@ -8,7 +8,23 @@ Simplest api ever created with CRUD and token authentication
 
 ## Documention
 
-[TOC]
+[SimpleApi](#simpleapi)
+  * [Documention](#documention)
+  * [Getting Started](#getting-started)
+    + [Prerequisites](#prerequisites)
+    + [Installing](#installing)
+  * [Running the tests](#running-the-tests)
+      - [HTTP Request Method GET](#http-request-method-get)
+      - [HTTP Request Method POST](#http-request-method-post)
+      - [HTTP Request Method PUT](#http-request-method-put)
+      - [HTTP Request Method DELETE](#http-request-method-delete)
+  * [Deployment](#deployment)
+  * [Built With](#built-with)
+  * [Contributing](#contributing)
+  * [Versioning](#versioning)
+  * [Authors](#authors)
+  * [License](#license)
+  * [Acknowledgments](#acknowledgments)
 
 
 ## Getting Started
