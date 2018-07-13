@@ -4,7 +4,7 @@ Simplest api ever created with CRUD and token authentication
 
 ![](https://raw.githubusercontent.com/phpwizz/SimpelApi/master/logo.png)
 
-![](https://img.shields.io/badge/version-v1.0-blue.svg) ![](https://img.shields.io/badge/size-16,8%20kB-blue.svg) ![](https://img.shields.io/badge/python-2.7-green.svg) ![](https://img.shields.io/badge/status-active-brightgreen.svg) ![](	https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork) ![](	https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)![](		https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+![](https://img.shields.io/badge/version-v1.0-blue.svg) ![](https://img.shields.io/badge/size-16,8%20kB-blue.svg) ![](https://img.shields.io/badge/python-2.7-green.svg) ![](https://img.shields.io/badge/status-active-brightgreen.svg) ![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 
 ## Documention
 
