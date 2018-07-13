@@ -2,14 +2,14 @@
 
 Simplest api ever created with CRUD and token authentication
 
-![](https://raw.githubusercontent.com/phpwizz/SimpelApi/master/logo.png)
+![](https://raw.githubusercontent.com/phpwizz/SimpleApi/master/logo.png)
 
 ![](https://img.shields.io/badge/version-v1.0-blue.svg) ![](https://img.shields.io/badge/size-16,8%20kB-blue.svg) ![](https://img.shields.io/badge/python-2.7-green.svg) ![](https://img.shields.io/badge/status-active-brightgreen.svg) ![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 
-## Documention
+## Documentation
 
 [SimpleApi](#simpleapi)
-  * [Documention](#documention)
+  * [Documentation](#documentation)
   * [Features](#features)
   * [Getting Started](#getting-started)
     + [Prerequisites](#prerequisites)
@@ -38,7 +38,7 @@ Simplest api ever created with CRUD and token authentication
 
 ## Getting Started
 
-SimpelApi is Flask application developed for fast development of simpel APIs,this package uses SQLite3 as default database and SQLAlchemy to comunitcate with database.
+SimpleApi is Flask application developed for fast development of simple APIs,this package uses SQLite3 as default database and SQLAlchemy to comunitcate with database.
 
 
 
@@ -59,12 +59,12 @@ pip install Flask-HTTPAuth
 
 ### Installing
 
-SimpelApi is easy to setup you just need to clone or download directory and run it as shown bellow
+SimpleApi is easy to setup you just need to clone or download directory and run it as shown bellow
 
 
 ```
-git clone https://github.com/phpwizz/SimpelApi.git
-cd /dir/SimpelApi/
+git clone https://github.com/phpwizz/SimpleApi.git
+cd /dir/SimpleApi/
 python views.py
 ```
 And that is it ! Now you have your own api on [localhost:8080/api/v1/](http://localhost:8080/api/v1/ "localhost:8080/api/v1/")
