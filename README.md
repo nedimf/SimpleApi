@@ -112,7 +112,7 @@ For methode chose POST
 ```
 POST method in this package is used for creating new database entries  ex.register new user or creating a new post
 
-#####Creating new user
+Creating new user
 ```
 For url put :  http://localhost:8080/api/v1/user/register/new
 ```
@@ -149,7 +149,7 @@ For methode chose PUT
 ```
 PUT method in this package is used for updatung already existent database entries  ex.change user name , change content for post
 
-#####Updating user username
+Updating user username
 ```
 For url put :  http://localhost:8080/api/v1/user/id/1/edit/username
 ```
