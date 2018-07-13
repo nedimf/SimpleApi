@@ -31,7 +31,8 @@ Simplest api ever created with CRUD and token authentication
 ## Features
 
 * CRUD operations
-* User authantication 
+* User authantication
+* Tokens
 * Limitation for api requests (default:300 requests per minute)
 
 
