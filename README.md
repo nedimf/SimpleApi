@@ -10,8 +10,8 @@ Simplest api ever created with CRUD and token authentication
 
 [SimpleApi](#simpleapi)
   * [Documention](#documention)
-  * [Getting Started](#getting-started)
   * [Features](#features)
+  * [Getting Started](#getting-started)
     + [Prerequisites](#prerequisites)
     + [Installing](#installing)
   * [Running the tests](#running-the-tests)
@@ -28,15 +28,17 @@ Simplest api ever created with CRUD and token authentication
   * [Acknowledgments](#acknowledgments)
 
 
-## Getting Started
-
-SimpelApi is Flask application developed for fast development of simpel APIs,this package uses SQLite3 as default database and SQLAlchemy to comunitcate with database.
-
 ## Features
 
 CRUD operations
 User authantication 
 Limitation for api requests [default:300 per minutes]
+
+
+## Getting Started
+
+SimpelApi is Flask application developed for fast development of simpel APIs,this package uses SQLite3 as default database and SQLAlchemy to comunitcate with database.
+
 
 
 ### Prerequisites
