@@ -15,7 +15,7 @@ Simplest api ever created with CRUD and token authentication
     + [Prerequisites](#prerequisites)
     + [Installing](#installing)
   * [Running the tests](#running-the-tests)
-      - [Generating authantication token](#generating-authantication-token)
+      - [Generating authentication token](#generating-authentication-token)
       - [HTTP Request Method GET](#http-request-method-get)
       - [HTTP Request Method POST](#http-request-method-post)
       - [HTTP Request Method PUT](#http-request-method-put)
@@ -32,7 +32,7 @@ Simplest api ever created with CRUD and token authentication
 ## Features
 
 * CRUD operations
-* User authantication
+* User authentication
 * Tokens
 * Limitation for api requests (default:300 requests per minute)
 
@@ -56,7 +56,7 @@ pip install Flask-HTTPAuth
 - Redis package is for limation on requests
 - Flask package is micro-framework it self
 - SQLAlchemy package is for communication with SQLite3 database
-- Flask-HTTPAuth package is for authantication users and restricting routes with login required
+- Flask-HTTPAuth package is for authentication users and restricting routes with login required
 
 ### Installing
 
@@ -72,7 +72,7 @@ And that is it ! Now you have your own api on [localhost:8080/api/v1/](http://lo
 
 ## Running the tests
 
-#### Generating authantication token
+#### Generating authentication token
 
 To generate token in SimpleApi you will first need to be logged in , for that you will first need to create account in 
 
