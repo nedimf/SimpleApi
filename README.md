@@ -15,6 +15,7 @@ Simplest api ever created with CRUD and token authentication
     + [Prerequisites](#prerequisites)
     + [Installing](#installing)
   * [Running the tests](#running-the-tests)
+      - [Generating authantication token](#generating-authantication-token)
       - [HTTP Request Method GET](#http-request-method-get)
       - [HTTP Request Method POST](#http-request-method-post)
       - [HTTP Request Method PUT](#http-request-method-put)
@@ -70,6 +71,29 @@ python views.py
 And that is it ! Now you have your own api on [localhost:8080/api/v1/](http://localhost:8080/api/v1/ "localhost:8080/api/v1/")
 
 ## Running the tests
+
+#### Generating authantication token
+
+To generate token in SimpleApi you will first need to be logged in , for that you will first need to create account in 
+
+http://localhost:8080/user/auth/token
+
+
+Output:
+```json
+
+[
+	{
+
+   token : "eyJhbGciOiJIUzI1NiI eyJhbGciOiJIUzI1NiIsImV4cCI6MTUzMTMxNzYxMSwiaWF0IjoxNTMxMzE3MDExfQ.eyJpZCI6MX0.N6KGiEivg3aZCWlkUPjNLNfphUmZx5ssXW56KoPakK0"
+}
+]
+
+
+```
+
+This token has expiration date of 600 minutes by default but that can be extended on more if need.
+
 ####  HTTP Request Method GET
 
 Open any REST api client this tutorial will cover use of  [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo "Advanced REST ")
