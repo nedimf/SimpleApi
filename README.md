@@ -98,12 +98,11 @@ This token has expiration date of 600 minutes by default but that can be extende
 
 Open any REST api client this tutorial will cover use of  [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo "Advanced REST ")
 
-```
-Open a client application
-```
-```
-For methode chose GET
-```
+
+* Open a client application
+
+* For methode chose GET
+
 This will show JSON format for all users
 ```
 For url put :  http://localhost:8080/api/v1/users
@@ -132,12 +131,10 @@ Output:
 ```
 ####  HTTP Request Method POST
 
-```
-Open a client application
-```
-```
-For methode chose POST
-```
+* Open a client application
+
+* For methode chose POST
+
 POST method in this package is used for creating new database entries  ex.register new user or creating a new post
 
 Creating new user
@@ -171,12 +168,10 @@ If you are familier with curl command you can do it this way
 ####  HTTP Request Method PUT
 Info : For this step you need to have already registerd user
 
-```
-Open a client application
-```
-```
-For methode chose PUT
-```
+* Open a client application
+
+* For methode chose PUT
+
 PUT method in this package is used for updatung already existent database entries  ex.change user name , change content for post
 
 Updating user username
@@ -203,12 +198,11 @@ Application will responde with new value added for username!
 
 ####  HTTP Request Method DELETE
 
-```
-Open a client application
-```
-```
-For methode chose DELETE
-```
+
+* Open a client application
+
+* For methode chose DELETE
+
 DELETE method in this package is used for removing  ex.users or posts
 
 Removing user with specific id
