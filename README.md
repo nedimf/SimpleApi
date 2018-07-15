@@ -206,9 +206,9 @@ Application will responde with new value added for username!
 DELETE method in this package is used for removing  ex.users or posts
 
 Removing user with specific id
-```
-For url put :  http://localhost:8080/api/v1/user/id/1/delete
-```
+
+* For url put :  http://localhost:8080/api/v1/user/id/1/delete
+
 Set headers to Content-Type and application/json
 
 Output:
