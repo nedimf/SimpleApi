@@ -36,6 +36,10 @@ Simplest api ever created with CRUD and token authentication
 * Tokens
 * Limitation for api requests (default:300 requests per minute)
 
+##### Features that comming in next version [v.1.0.1]
+
+ * Upload files on server with Flask-Upload extension implemented
+
 
 ## Getting Started
 
