@@ -82,12 +82,12 @@ http://localhost:8080/user/auth/token
 Output:
 ```json
 
-[
-	{
+{
 
-   token : "eyJhbGciOiJIUzI1NiI eyJhbGciOiJIUzI1NiIsImV4cCI6MTUzMTMxNzYxMSwiaWF0IjoxNTMxMzE3MDExfQ.eyJpZCI6MX0.N6KGiEivg3aZCWlkUPjNLNfphUmZx5ssXW56KoPakK0"
+   "token" : "eyJhbGciOiJIUzI1NiI eyJhbGciOiJIUzI1NiIsImV4cCI6MTUzMTMxNzYxMSwiaWF0IjoxNTMxMzE3MDExfQ.eyJpZCI6MX0.N6KGiEivg3aZCWlkUPjNLNfphUmZx5ssXW56KoPakK0"
+
 }
-]
+
 
 
 ```
@@ -100,6 +100,8 @@ Open any REST api client this tutorial will cover use of  [Advanced REST client]
 
 ```
 Open a client application
+```
+```
 For methode chose GET
 ```
 This will show JSON format for all users
@@ -132,6 +134,8 @@ Output:
 
 ```
 Open a client application
+```
+```
 For methode chose POST
 ```
 POST method in this package is used for creating new database entries  ex.register new user or creating a new post
@@ -169,6 +173,8 @@ Info : For this step you need to have already registerd user
 
 ```
 Open a client application
+```
+```
 For methode chose PUT
 ```
 PUT method in this package is used for updatung already existent database entries  ex.change user name , change content for post
@@ -199,6 +205,8 @@ Application will responde with new value added for username!
 
 ```
 Open a client application
+```
+```
 For methode chose DELETE
 ```
 DELETE method in this package is used for removing  ex.users or posts
