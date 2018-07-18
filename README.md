@@ -58,7 +58,7 @@ pip install SQLAlchemy
 pip install Flask-HTTPAuth
 ```
 - Redis package is for limation on requests
-- Flask package is micro-framework it self
+- Flask package is micro-framework itself
 - SQLAlchemy package is for communication with SQLite3 database
 - Flask-HTTPAuth package is for authentication users and restricting routes with login required
 
@@ -96,7 +96,7 @@ Output:
 
 ```
 
-This token has expiration date of 600 minutes by default but that can be extended on more if need.
+This token has expiration date of 600 minutes by default but that can be extended on more if is needed.
 
 ####  HTTP Request Method GET
 
@@ -161,7 +161,7 @@ Output:
 "Created": "test12"
 }
 ```
-Application will responde with success message!
+Application will respond with success message!
 
 If you are familier with curl command you can do it this way
 ```
@@ -170,7 +170,7 @@ If you are familier with curl command you can do it this way
 ```
 
 ####  HTTP Request Method PUT
-Info : For this step you need to have already registerd user
+Info : For this step you need to have already registered user
 
 * Open a client application
 
@@ -197,7 +197,7 @@ Output:
 "username": "changedusername"
 }
 ```
-Application will responde with new value added for username!
+Application will respond with new value added for username!
 
 
 ####  HTTP Request Method DELETE
@@ -221,7 +221,7 @@ Output:
 "Deleted": "Success"
 }
 ```
-Application will responde with success message!
+Application will respond with success message!
 
 Info: Same process can be applied for managing with posts!
 
