@@ -4,6 +4,7 @@ Simplest api ever created with CRUD and token authentication
 
 ![](https://raw.githubusercontent.com/phpwizz/SimpleApi/master/logo.png)
 
+
 ![](https://img.shields.io/badge/version-v1.0-blue.svg) ![](https://img.shields.io/badge/size-16,8%20kB-blue.svg) ![](https://img.shields.io/badge/python-2.7-green.svg) ![](https://img.shields.io/badge/status-active-brightgreen.svg) ![](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 
 ## Documentation
@@ -260,3 +261,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Flask official documantion
 * Udacity course for APIs
 * Logo icon: <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+![](https://camo.githubusercontent.com/ba40cf893a8f6dcdc5d1db437564f634f3ca0b4a/68747470733a2f2f63646e2e7261776769742e636f6d2f61726374696369636573747564696f2f6e6f72642f646576656c6f702f7372632f6173736574732f62616e6e65722d666f6f7465722d6d6f756e7461696e732e737667)
